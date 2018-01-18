@@ -13,10 +13,10 @@ body {
 @font-face {
     font-family: "Intro Light Regular";
     /*src: url('./assets/font/IntroLight.eot.eot');*/
-    src: url('./assets/font/IntroLight.eot?#iefix') format('embedded-opentype'),
-         url('./assets/font/introlight.woff') format('woff'),
-         url('./assets/font/introlight.ttf') format('truetype'),
-         url('./assets/font/introlight.svg#Intro Light Regular') format('svg');
+    src: url('/assets/font/IntroLight.eot?#iefix') format('embedded-opentype'),
+         url('/assets/font/introlight.woff') format('woff'),
+         url('/assets/font/introlight.ttf') format('truetype'),
+         url('/assets/font/introlight.svg#Intro Light Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 	}
