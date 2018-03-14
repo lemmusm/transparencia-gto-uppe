@@ -15,6 +15,7 @@ import { MenuComponent } from './components/menu/menu.component';
 import { BreadcrumbComponent } from './components/breadcrumb/breadcrumb.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { ResponsablesComponent } from './components/responsables/responsables.component';
+import { DestacadosComponent } from './components/destacados/destacados.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { ResponsablesComponent } from './components/responsables/responsables.co
     MenuComponent,
     BreadcrumbComponent,
     FooterComponent,
-    ResponsablesComponent
+    ResponsablesComponent,
+    DestacadosComponent
   ],
   imports: [
     BrowserModule,
